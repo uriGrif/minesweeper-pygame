@@ -6,6 +6,8 @@ from math import floor as sinDecimal
 
 pygame.init()
 
+#prueba cambio git
+
 #unidades
 unit = 40
 inicial = 60
